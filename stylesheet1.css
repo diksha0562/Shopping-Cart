@@ -1,0 +1,23 @@
+#heading {
+    background-color:teal;
+    color:white;
+    font-size:300%;
+    font-family:verdana;
+    padding:80px;
+    margin: 0px;
+
+  }
+  #subheading {
+    background-color:midnightblue;
+    color:white;
+    font-size:300%;
+    font-family:verdana;
+    padding: 10px;
+    margin-top:10px;
+    margin-bottom: 10px;
+  }
+  img{
+  width:400px;
+  height:600px;
+  border:0;
+}

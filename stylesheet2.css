@@ -1,0 +1,46 @@
+#heading {
+    background-color:teal;
+    color:white;
+    font-size:300%;
+    font-family:verdana;
+    padding:80px;
+    margin: 0px;
+
+  }
+  #subheading {
+    background-color:midnightblue;
+    color:white;
+    font-size:300%;
+    font-family:verdana;
+    padding: 10px;
+    margin-top:10px;
+    margin-bottom: 10px;
+  }
+div.main {
+    position: relative;
+    width: 900px;
+    height: 200px;
+    border: 3px solid #73AD21;
+}
+.image{
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  width:100px;
+  height:100px;
+  border:0"
+}
+
+.details{
+    position: absolute;
+    top: 100px;
+    right: 100px;
+    font-size:200%;
+}
+
+a.price{
+    position: absolute;
+    top: 100px;
+    right: 300px;
+    font-size:200%;
+}
