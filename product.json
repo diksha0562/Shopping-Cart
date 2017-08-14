@@ -1,6 +1,8 @@
   {
         "num" : [0,1,2,3,4,5],
         "name" : ["Shirt","Tank Top","Trousers", "T Shirt","Frock","Boys' T-Shirt"],
-        "price" : [800,600,1000,900,500,400]
+        "price" : [800,600,1000,900,500,400],
+        "imagesrc": ["./images/shirt.jpg","./images/tanktop.jpg","./images/trousers.jpg","./images/tshirt.jpg","./images/frock.jpg","./images/boystshirt.jpg"]
+            
             
     } 
